@@ -129,11 +129,11 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>-v dart=0 darkwake=no nvda_drv=1</string>
+		<string>dart=0 darkwake=no nvda_drv=1</string>
 		<key>Debug</key>
 		<false/>
 		<key>DefaultVolume</key>
-		<string>Macintosh HD</string>
+		<string>Mac</string>
 		<key>Legacy</key>
 		<string>PBR</string>
 		<key>Secure</key>
@@ -179,6 +179,8 @@
 		<array>
 			<string>\EFI\BOOT\BOOTX64.EFI</string>
 			<string>Windows</string>
+			<string>Recovery</string>
+			<string>Preboot</string>
 		</array>
 		<key>Language</key>
 		<string>zh_CN:0</string>

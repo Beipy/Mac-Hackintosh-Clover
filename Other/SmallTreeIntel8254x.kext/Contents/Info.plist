@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>13B42</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>SmallTreeIntel8254x</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.SmallTree.iokit.Intel8254x</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundlePackageType</key>
+	<string>KEXT</string>
+	<key>CFBundleShortVersionString</key>
+	<string>3.4.32</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>3.4.32</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>5A3005</string>
+	<key>DTPlatformVersion</key>
+	<string>GM</string>
+	<key>DTSDKBuild</key>
+	<string>12F37</string>
+	<key>DTSDKName</key>
+	<string>macosx10.8</string>
+	<key>DTXcode</key>
+	<string>0502</string>
+	<key>DTXcodeBuild</key>
+	<string>5A3005</string>
+	<key>IOKitPersonalities</key>
+	<dict>
+		<key>i8254x</key>
+		<dict>
+			<key>CFBundleIdentifier</key>
+			<string>com.SmallTree.iokit.Intel8254x</string>
+			<key>IOClass</key>
+			<string>SmallTreeIntel8254x</string>
+			<key>IOKitDebug</key>
+			<integer>65536</integer>
+			<key>IOPCIPrimaryMatch</key>
+			<string>0x10108086 0x10118086 0x10128086 0x101d8086 0x10268086 0x10278086 0x10288086 0x105e8086 0x105f8086 0x10798086 0x107a8086 0x107b8086 0x107c8086 0x107d8086 0x107e8086 0x10a48086 0x10b58086 0x10b98086 0x10bc8086</string>
+			<key>IOPCISecondaryMatch</key>
+			<string>0x000a8086 0x000a1374</string>
+			<key>IOPCITunnelCompatible</key>
+			<true/>
+			<key>IOProviderClass</key>
+			<string>IOPCIDevice</string>
+			<key>IOResourceMatch</key>
+			<string>IOKit</string>
+			<key>IOUserClientClass</key>
+			<string>SmallTreeStegUserClient</string>
+		</dict>
+	</dict>
+	<key>OSBundleLibraries</key>
+	<dict>
+		<key>com.apple.iokit.IONetworkingFamily</key>
+		<string>1.5.0</string>
+		<key>com.apple.iokit.IOPCIFamily</key>
+		<string>1.6</string>
+		<key>com.apple.kpi.bsd</key>
+		<string>8.0.0</string>
+		<key>com.apple.kpi.iokit</key>
+		<string>8.0.0</string>
+		<key>com.apple.kpi.libkern</key>
+		<string>8.0.0</string>
+		<key>com.apple.kpi.mach</key>
+		<string>8.0.0</string>
+	</dict>
+</dict>
+</plist>

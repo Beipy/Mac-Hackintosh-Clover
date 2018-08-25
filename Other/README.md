@@ -1,13 +1,4 @@
-# Pc-Black-macOS 黑苹果引导文件说明
-本页文件夹说明：
-
-| 文件夹 | 功能 |
-| --- | --- |
-| Beipy i5 7500 | 适用于CPU:i5 7500 cpu 详情配置请到文件夹内查看说明 |
-| config | 整理的各种配置引导文件 |
-| Other | 黑苹果各种补丁文件总汇，根据自己所需配置。不需要的删除即可  目录:EFI>CLOVER>kexts>Other> |
-
-##文件夹Other内容说明
+# 文件说明
 
 - `ACPIBatteryManager.kext`电池驱动程序，用于实现电量显示，如遇五国卡`BAT0`之类的请删除
 - `AppleALC.kext`和`VoodooHDA-2.9.1.kext`黑苹果万能声卡驱动任选其一

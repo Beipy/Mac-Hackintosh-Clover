@@ -8,6 +8,7 @@
 | Beipy i5 7500 | 适用于CPU:i5 7500 cpu 详情配置请到文件夹内查看说明 |
 | config | 整理的各种配置引导文件 |
 | Other | 黑苹果各种补丁文件总汇，根据自己所需配置。不需要的删除即可  目录:EFI>CLOVER>kexts>Other> |
+|黑苹果独显驱动文件下载|https://www.tonymacx86.com/nvidia-drivers/|
 
 # PC台式机
 

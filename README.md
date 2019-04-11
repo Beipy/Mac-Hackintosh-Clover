@@ -276,7 +276,7 @@
 
 
 
-##文件夹Other内容说明
+## 文件夹Other内容说明
 
 - `ACPIBatteryManager.kext`电池驱动程序，用于实现电量显示，如遇五国卡`BAT0`之类的请删除
 - `AppleALC.kext`和`VoodooHDA-2.9.1.kext`黑苹果万能声卡驱动任选其一

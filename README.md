@@ -2,13 +2,14 @@
 
 ![png](about/Mac.png)
 
+<p>
 <a>
     <img src="https://img.shields.io/badge/MacOS-10.13-->14-blueviolet.svg">
 </a>
 <a href="http://www.beipy.com">
     <img src="https://img.shields.io/badge/Author-Beipy-0093ff.svg">
 </a>
-
+</p>
 ### 吐槽
 
 花少钱体验顶配苹果，少花冤枉钱，追求极致黑苹果系统。技术不止，折腾不止。

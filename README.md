@@ -185,7 +185,7 @@
 | Dell Inspiron 7520                         |
 | Dell Vostro成就 5459+i7-6500U+10.12.5      |
 | Dell XPS 13 9350 i7-6500U+3k触摸屏+10.13.6 |
-| Dell XPS 15 9550                           |
+| Dell XPS 15 9550 i7-6700 适配4K和1080+ 10.14.5     |
 | Dell 燃7000                                |
 | Dell 灵越15 3543+i5-5200U                  |
 | Dell 灵越3567+i5-7200                      |
@@ -314,6 +314,9 @@
 ![PNG](https://raw.githubusercontent.com/Beipy/VipVideoResolution/master/img/TestImg/dashang.png)
 
 ## 日志
-#### `2019/7/3`
+#### `2019-07-03`
 - 新增微台式机i7-7700+Dell-OptiPlex7050+HD630 ；
 - 新增i5-7500+技嘉B250-D3H +GTX1050
+
+#### `2019-07-30`
+- Dell XPS 15 9550 i7-6700 适配4K和1080+ 10.14.5

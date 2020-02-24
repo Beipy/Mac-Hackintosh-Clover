@@ -314,6 +314,9 @@
 ![PNG](https://raw.githubusercontent.com/Beipy/VipVideoResolution/master/img/TestImg/dashang.png)
 
 ## 日志
+#### `2020-02-24`
+- 更新驱动 Dell XPS 15 9550 i7-6700 适配4K和1080+ 10.15.3
+
 #### `2019-07-03`
 - 新增微台式机i7-7700+Dell-OptiPlex7050+HD630 ；
 - 新增i5-7500+技嘉B250-D3H +GTX1050

@@ -1,6 +1,6 @@
 # Mac-Hackintosh-Clover  黑苹果驱动Clover
 
-![png](about/Mac.png)
+
 
 <p>
 <a>
